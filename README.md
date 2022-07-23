@@ -1,7 +1,6 @@
-<h2 align="center">⚡ Apresentação ⚡</h2>
-
 <img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=tiagotff.tiagotff">
 
+<h2 align="center">⚡ Apresentação ⚡</h2>
 <h1 align="center">
   <a href="https://git.io/typing-svg">
   <img src="https://readme-typing-svg.herokuapp.com/?lines=Olá!+👋;+Eu+sou+o+Tiago!;+Seja+bem-vindo(a).&center=true&size=30">
