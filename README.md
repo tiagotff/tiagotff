@@ -19,9 +19,11 @@
 </h1>
 
 ## ⚡ Linguagens
-<h1 align="center">
-  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tiagotff&layout=dcompact&theme=tokyonight)](https://github.com/tiagotff/github-readme-stats)
-</h1>
+<div align=center>
+   <a href="https://github.com/tiagotff/github-readme-stats">
+     <img width=325 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tiagotff&layout=dcompact&theme=tokyonight" />
+   </a>
+</div>
 
 ## ⚡ Tenologias que utilizo
 <h1 align="center">
