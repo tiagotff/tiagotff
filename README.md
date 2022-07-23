@@ -10,7 +10,11 @@
 <br>
 <h2 align="center">⚡ Contato ⚡</h2>
 <div align="center"> 
-  <a href = "mailto:t.faustino91@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+  <a href="https://github.com/tiagotff"><i class="fab fa-github" style="font-size:26px;color:white"></i></a>
+  <a href="https://www.linkedin.com/in/tiagofaustino91/"><i class="fab fa-linkedin-in" style="font-size:26px;color:white"></i></a>
+  <a href="mailto:t.faustino91@gmail.com"><i class="fas fa-envelope" style="font-size:26px;color:white"></i></a>
+  <br>
+  <a href = "mailto:t.faustino91@gmail.com"><img src="https://img.shields.io/badge/-Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/tiagofaustino91/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 </div>
 <br>
