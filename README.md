@@ -10,13 +10,9 @@
 <br>
 <h2 align="center">⚡ Contato ⚡</h2>
 <div align="center"> 
-  <a href="https://github.com/tiagotff"><i class="fab fa-github" style="font-size:26px;color:white"></i></a>
-  <a href="https://www.linkedin.com/in/tiagofaustino91/"><i class="fab fa-linkedin-in" style="font-size:26px;color:white"></i></a>
-  <a href="mailto:t.faustino91@gmail.com"><i class="fas fa-envelope" style="font-size:26px;color:white"></i></a>
-  <br>
   <a href = "mailto:t.faustino91@gmail.com"><img src="https://img.shields.io/badge/-Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/tiagofaustino91/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
-  <a xmlns="http://www.w3.org/2000/svg" target="_blank" xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="https://github.com/badges/shields/githubpages"><text aria-hidden="true" x="335" y="150" fill="#fff" transform="scale(.1)" textLength="230">GitHub Pages</text><text x="335" y="140" transform="scale(.1)" textLength="230">GitHub Pages</text><rect id="llink" stroke="#d5d5d5" fill="url(#a)" x=".5" y=".5" width="50" height="19" rx="2"/></a>
+  <a href="https://www.linkedin.com/in/tiagofaustino91/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
+  <a href = "https://tiagotff.github.io/datadriven/#home"><img src"https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white" target="_blank"></a>
 </div>
 <br>
 <h2 align="center">⚡ GitHub Stats ⚡</h2>
