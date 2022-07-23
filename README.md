@@ -62,7 +62,7 @@
     <img align="center" alt="html5" src="https://img.shields.io/badge/Microsoft_Word-2B579A?style=for-the-badge&logo=microsoft-word&logoColor=white" />
     <img align="center" alt="html5" src="https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white" />  
 </div><br/>
-</div>
+</div> 
 
 <div align="center">
   <img alt="snake eating my contribution" src="https://github.com/tiagotff/tiagotff/blob/output/github-contribution-grid-snake.svg">
