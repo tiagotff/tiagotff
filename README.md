@@ -26,7 +26,7 @@
       <img align="center" width="70%" src="https://github-readme-streak-stats.herokuapp.com/?user=tiagotff&show_icons=true&theme=tokyonight" alt="zumrudu-anka" />
     </a>
     <br><br>
-    <img src="https://activity-graph.herokuapp.com/graph?username=tiagotff&show_icons=true&theme=tokyonight&title_color=70a5fd&icon_color=bf91f3&text_color=38bdae&bg_color=1a1b27" width="100%"/>
+       <img align="center" width="70%" src="https://activity-graph.herokuapp.com/graph?username=tiagotff&show_icons=true&theme=tokyonight&title_color=70a5fd&icon_color=bf91f3&text_color=38bdae&bg_color=1a1b27" />
  </div>
     
      
