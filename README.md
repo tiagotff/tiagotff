@@ -16,16 +16,11 @@
 
 <h2 align="center">⚡ GitHub Stats ⚡</h2>
 <h1 align="center">
-  ![Tiago GitHub stats](https://github-readme-stats.vercel.app/api?username=tiagotff&show_icons=true&theme=tokyonight)
-</h1>
-
-
-
 <br>
 <p align=center>
   <div align=center>
     <a href="https://github.com/denvercoder1/github-readme-streak-stats" title="Go to Source">
-      <img align="left" width=325 src="https://github-readme-stats.vercel.app/api?username=tiagotff&show_icons=true&theme=tokyonight" alt="zumrudu-anka" />
+      <img align="left" width=325 src="https://github-readme-streak-stats.herokuapp.com/?username=tiagotff&show_icons=true&theme=tokyonight" alt="zumrudu-anka" />
     </a>
     <a href="https://github.com/anuraghazra/github-readme-stats" title="Go to Source">
       <img align="right" width=325 src="https://github-readme-stats.vercel.app/api?username=tiagotff&show_icons=true&theme=tokyonight" />
