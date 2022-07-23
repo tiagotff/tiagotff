@@ -2,6 +2,7 @@
 
 <h2 align="center">⚡ Apresentação ⚡</h2>
 <h1 align="center">
+<br>
   <a href="https://git.io/typing-svg">
   <img src="https://readme-typing-svg.herokuapp.com/?lines=Olá!+👋;+Eu+sou+o+Tiago!;+Seja+bem-vindo(a).&center=true&size=30">
   </a>
@@ -9,6 +10,7 @@
 
 <h2 align="center">⚡ Contato ⚡</h2>
 <div align="center"> 
+<br>
   <a href = "mailto:t.faustino91@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/tiagofaustino91/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 </div>
@@ -29,6 +31,7 @@
 
 <h2 align="center">⚡ Linguagens ⚡</h2>
 <div align=center>
+<br>
    <a href="https://github.com/tiagotff/github-readme-stats">
      <img width=325 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tiagotff&layout=dcompact&theme=tokyonight" />
    </a>
@@ -36,6 +39,7 @@
 
 <h2 align="center">⚡ Tecnologias que utilizo ⚡</h2>
 <h1 align="center">
+<br>
 <div style="display: inline_block"><br/>
     <img align="center" alt="html5" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=yellow" />
     <img align="center" alt="html5" src="https://img.shields.io/badge/Sql-f1220b?style=for-the-badge&logo=SQL&logoColor=red" />
