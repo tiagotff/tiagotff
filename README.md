@@ -1,32 +1,30 @@
 ## ⚡ Apresentação
 
-## ⚡ Apresentação
-
 <img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=tiagotff.tiagotff">
 
 <h1 align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com/?lines=Olá!+👋;+Eu+sou+o+Tiago!;&center=true&size=30">
+    <img src="https://readme-typing-svg.herokuapp.com/?lines=Olá!+👋;+Eu+sou+o+Tiago!;+Seja+bem-vindo(a)+ao+meu+GitHub.&center=true&size=30">
   </a>
 </h1>
 
-<br>
-<p align="center">
-  ### Seja bem-vindo ao meu GitHub.
-  <br>
-</p>
-
 ## ⚡ Contato
-
-[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/tiagofaustino91/)
+<h1 align="center">
+  [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/tiagofaustino91/)
+</h1>
 
 ## ⚡ GitHub Stats
-![Tiago GitHub stats](https://github-readme-stats.vercel.app/api?username=tiagotff&show_icons=true&theme=tokyonight)
+<h1 align="center">
+  ![Tiago GitHub stats](https://github-readme-stats.vercel.app/api?username=tiagotff&show_icons=true&theme=tokyonight)
+</h1>
 
 ## ⚡ Linguagens
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tiagotff&layout=dcompact&theme=tokyonight)](https://github.com/tiagotff/github-readme-stats)
+<h1 align="center">
+  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tiagotff&layout=dcompact&theme=tokyonight)](https://github.com/tiagotff/github-readme-stats)
+</h1>
 
 ## ⚡ Tenologias que utilizo
+<h1 align="center">
 <div style="display: inline_block"><br/>
     <img align="center" alt="html5" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=yellow" />
     <img align="center" alt="html5" src="https://img.shields.io/badge/Sql-f1220b?style=for-the-badge&logo=SQL&logoColor=red" />
@@ -54,11 +52,9 @@
     <img align="center" alt="html5" src="https://img.shields.io/badge/Microsoft_Word-2B579A?style=for-the-badge&logo=microsoft-word&logoColor=white" />
     <img align="center" alt="html5" src="https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white" />  
 </div><br/>
+</h1>
 
 <div align="center">
-
-<img alt="snake eating my contribution" src="https://github.com/tiagotff/tiagotff/blob/output/github-contribution-grid-snake.svg">
-
-![snake gif](https://github.com/tiagotff/tiagotff/blob/output/github-contribution-grid-snake.gif)
-  
+  <img alt="snake eating my contribution" src="https://github.com/tiagotff/tiagotff/blob/output/github-contribution-grid-snake.svg">
+  ![snake gif](https://github.com/tiagotff/tiagotff/blob/output/github-contribution-grid-snake.gif)
 </div>
