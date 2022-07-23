@@ -13,6 +13,8 @@
   <a href = "mailto:t.faustino91@gmail.com"><img src="https://img.shields.io/badge/-Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/tiagofaustino91/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
   <a href = "https://tiagotff.github.io/datadriven/"><img src"https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white" target="_blank"></a>
+  ![GitHub]("https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white")
+  
 </div>
 <br>
 <h2 align="center">⚡ GitHub Stats ⚡</h2>
