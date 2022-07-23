@@ -1,4 +1,4 @@
-## ⚡ Apresentação
+<h2 align="center">⚡ Apresentação ⚡</h2>
 
 <img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=tiagotff.tiagotff">
 
@@ -8,25 +8,25 @@
   </a>
 </h1>
 
-## ⚡ Contato
+<h2 align="center">⚡ Contato ⚡</h2>
 <div align="center"> 
   <a href = "mailto:t.faustino91@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/tiagofaustino91/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 </div>
 
-## ⚡ GitHub Stats
+<h2 align="center">⚡ GitHub Stats ⚡</h2>
 <h1 align="center">
   ![Tiago GitHub stats](https://github-readme-stats.vercel.app/api?username=tiagotff&show_icons=true&theme=tokyonight)
 </h1>
 
-## ⚡ Linguagens
+<h2 align="center">⚡ Linguagens ⚡</h2>
 <div align=center>
    <a href="https://github.com/tiagotff/github-readme-stats">
      <img width=325 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tiagotff&layout=dcompact&theme=tokyonight" />
    </a>
 </div>
 
-## ⚡ Tenologias que utilizo
+<h2 align="center">⚡ Tecnologias que utilizo ⚡</h2>
 <h1 align="center">
 <div style="display: inline_block"><br/>
     <img align="center" alt="html5" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=yellow" />
