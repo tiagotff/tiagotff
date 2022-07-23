@@ -2,12 +2,11 @@
 
 <h2 align="center">⚡ Apresentação ⚡</h2>
 <div align="center">
-<h1 align="center">
   <a href="https://git.io/typing-svg">
   <img src="https://readme-typing-svg.herokuapp.com/?lines=Olá!+👋;+Eu+sou+o+Tiago!;+Seja+bem-vindo(a).&center=true&size=30">
   </a>
-</h1>
 </div>
+
 <br>
 <h2 align="center">⚡ Contato ⚡</h2>
 <div align="center"> 
