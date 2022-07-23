@@ -1,12 +1,14 @@
 <img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=tiagotff.tiagotff">
 
 <h2 align="center">⚡ Apresentação ⚡</h2>
+<div align="center">
 <h1 align="center">
 <br>
   <a href="https://git.io/typing-svg">
   <img src="https://readme-typing-svg.herokuapp.com/?lines=Olá!+👋;+Eu+sou+o+Tiago!;+Seja+bem-vindo(a).&center=true&size=30">
   </a>
 </h1>
+</div>
 
 <h2 align="center">⚡ Contato ⚡</h2>
 <div align="center"> 
@@ -16,10 +18,9 @@
 </div>
 
 <h2 align="center">⚡ GitHub Stats ⚡</h2>
-<h1 align="center">
+<div align="center">
 <br>
 <p align=center>
-  <div align=center>
     <a href="https://github.com/anuraghazra/github-readme-stats" title="Go to Source">
       <img align="center" width="70%" src="https://github-readme-stats.vercel.app/api?username=tiagotff&show_icons=true&theme=tokyonight" />
     </a>
@@ -38,7 +39,7 @@
 </div>
 
 <h2 align="center">⚡ Tecnologias que utilizo ⚡</h2>
-<h1 align="center">
+<div align="center">
 <br>
 <div style="display: inline_block"><br/>
     <img align="center" alt="html5" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=yellow" />
@@ -67,7 +68,7 @@
     <img align="center" alt="html5" src="https://img.shields.io/badge/Microsoft_Word-2B579A?style=for-the-badge&logo=microsoft-word&logoColor=white" />
     <img align="center" alt="html5" src="https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white" />  
 </div><br/>
-</h1>
+</div>
 
 <div align="center">
   <img alt="snake eating my contribution" src="https://github.com/tiagotff/tiagotff/blob/output/github-contribution-grid-snake.svg">
