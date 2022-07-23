@@ -44,8 +44,7 @@
 
 <div align="center">
   
-  ![snake gif](https://github.com/tiagotff/tiagotff/blob/output/github-contribution-grid-snake.svg)
-  <img src="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake.svg#gh-light-mode-only" alt="github contribution grid snake animation" style="max-width: 100%;">
+    <img src="https://raw.githubusercontent.com/tiagotff/tiagotff/output/github-contribution-grid-snake.svg#gh-light-mode-only" alt="github contribution grid snake animation" style="max-width: 100%;">
   
 </div>
 
