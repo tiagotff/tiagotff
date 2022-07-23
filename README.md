@@ -28,7 +28,6 @@
 <br>
 <h2 align="center">⚡ Linguagens ⚡</h2>
 <div align=center>
-<br>
    <a href="https://github.com/tiagotff/github-readme-stats">
      <img width=325 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tiagotff&layout=dcompact&theme=tokyonight" />
    </a>
@@ -36,7 +35,6 @@
 
 <h2 align="center">⚡ Tecnologias que utilizo ⚡</h2>
 <div align="center">
-<br>
 <div style="display: inline_block"><br/>
     <img align="center" alt="html5" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=yellow" />
     <img align="center" alt="html5" src="https://img.shields.io/badge/Sql-f1220b?style=for-the-badge&logo=SQL&logoColor=red" />
