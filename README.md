@@ -3,22 +3,20 @@
 <h2 align="center">⚡ Apresentação ⚡</h2>
 <div align="center">
 <h1 align="center">
-<br>
   <a href="https://git.io/typing-svg">
   <img src="https://readme-typing-svg.herokuapp.com/?lines=Olá!+👋;+Eu+sou+o+Tiago!;+Seja+bem-vindo(a).&center=true&size=30">
   </a>
 </h1>
 </div>
-
+<br>
 <h2 align="center">⚡ Contato ⚡</h2>
 <div align="center"> 
   <a href = "mailto:t.faustino91@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/tiagofaustino91/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 </div>
-
+<br>
 <h2 align="center">⚡ GitHub Stats ⚡</h2>
 <div align="center">
-<br>
 <p align=center>
     <a href="https://github.com/anuraghazra/github-readme-stats" title="Go to Source">
       <img align="center" width="70%" src="https://github-readme-stats.vercel.app/api?username=tiagotff&show_icons=true&theme=tokyonight" />
@@ -28,7 +26,7 @@
       <img align="center" width="70%" src="https://github-readme-streak-stats.herokuapp.com/?user=tiagotff&show_icons=true&theme=tokyonight" alt="zumrudu-anka" />
     </a>
  </div> 
-
+<br>
 <h2 align="center">⚡ Linguagens ⚡</h2>
 <div align=center>
 <br>
