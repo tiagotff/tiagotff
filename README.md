@@ -44,7 +44,7 @@
 
 <div align="center">
 
-https://github.com/tiagotff/tiagotff/blob/output/github-contribution-grid-snake.gif
+<img alt="snake eating my contribution" src="https://github.com/tiagotff/tiagotff/blob/output/github-contribution-grid-snake.svg">
 
 ![snake gif](https://github.com/tiagotff/tiagotff/blob/output/github-contribution-grid-snake.gif)
   
