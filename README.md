@@ -73,4 +73,4 @@
 <div align="center">
   <img alt="snake eating my contribution" src="https://github.com/tiagotff/tiagotff/blob/output/github-contribution-grid-snake.svg">
 </div>
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=9400D3&height=120&section=footer"/>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=1D82BC&height=120&section=footer"/>
