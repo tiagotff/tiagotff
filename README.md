@@ -35,7 +35,7 @@
 <h2 align="center">⚡ Linguagens ⚡</h2>
 <div align=center>
    <a href="https://github.com/tiagotff/github-readme-stats">
-     <img width=325 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tiagotff&layout=dcompact&theme=tokyonight" />
+     <img width=325 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tiagotff&layout=compact&theme=tokyonight" />
    </a>
 </div>
 
