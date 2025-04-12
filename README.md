@@ -5,6 +5,7 @@
 <br>
 <img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=tiagotff.tiagotff">
 <br>
+<br>
 
 <h2 align="center">⚡ Apresentação ⚡</h2>
 <div align="center">
