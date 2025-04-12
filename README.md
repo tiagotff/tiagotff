@@ -1,6 +1,3 @@
-<img width="190px" align="right"  src="https://raw.githubusercontent.com/Elyabe/Elyabe/master/images/rick-dancing.gif">
-<img width="300px" align="left" src="https://raw.githubusercontent.com/Elyabe/elyabe/master/images/portal-3.gif"> 
-
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=1D82BC&height=120&section=header"/>
 
 <br>
@@ -11,6 +8,8 @@
 <div align="center">
   <a href="https://git.io/typing-svg">
   <img src="https://readme-typing-svg.herokuapp.com/?lines=Olá!+👋;+Eu+sou+o+Tiago!;Sou+Cientista+de+Dados!;+Seja+bem-vindo(a)!&center=true&size=30">
+  <img width="190px" align="right"  src="https://raw.githubusercontent.com/Elyabe/Elyabe/master/images/rick-dancing.gif">
+  <img width="300px" align="left" src="https://raw.githubusercontent.com/Elyabe/elyabe/master/images/portal-3.gif"> 
   </a>
 </div>
 
