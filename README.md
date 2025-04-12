@@ -2,14 +2,14 @@
 
 <br>
 <img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=tiagotff.tiagotff">
+<img width="190px" align="right"  src="https://raw.githubusercontent.com/Elyabe/Elyabe/master/images/rick-dancing.gif">
+<img width="300px" align="left" src="https://raw.githubusercontent.com/Elyabe/elyabe/master/images/portal-3.gif"> 
 <br>
 
 <h2 align="center">⚡ Apresentação ⚡</h2>
 <div align="center">
   <a href="https://git.io/typing-svg">
   <img src="https://readme-typing-svg.herokuapp.com/?lines=Olá!+👋;+Eu+sou+o+Tiago!;Sou+Cientista+de+Dados!;+Seja+bem-vindo(a)!&center=true&size=30">
-  <img width="190px" align="right"  src="https://raw.githubusercontent.com/Elyabe/Elyabe/master/images/rick-dancing.gif">
-  <img width="300px" align="left" src="https://raw.githubusercontent.com/Elyabe/elyabe/master/images/portal-3.gif"> 
   </a>
 </div>
 
